@@ -28,7 +28,7 @@ This project contains a program by Brendan Moroso, a student in the March 2019 C
     Output: "Beep!"
 
 ## Known Bugs
-  Currently there is a problem returning any values upon user input. 
+  Currently there is a problem returning any values upon user input.
 
 ## Support and contact details
 
