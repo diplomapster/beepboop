@@ -17,7 +17,18 @@ This project contains a program by Brendan Moroso, a student in the March 2019 C
 * Spec 1: Return a range of numbers from 0 to the inputted number
     Input: "4"
     Output: "0, 1, 2, 3, 4"
-* Spec 2: 
+* Spec 2: Return numbers with a "3" as "I'm sorry, Dave. I'm afraid I can't do that."
+    Input: "34"
+    Output: "I'm sorry, Dave. I'm afraid I can't do that."
+* Spec 3: Return numbers with a "2" in them as "Boop!"
+    Input:"12"
+    Output: "Boop!"
+* Spec 4: Return numbers with a "1" in them as "Beep!"
+    Input:"14"
+    Output: "Beep!"
+
+## Known Bugs
+  Currently there is a problem returning any values upon user input. 
 
 ## Support and contact details
 
