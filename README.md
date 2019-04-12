@@ -6,7 +6,7 @@
 
 ## Description
 
-This project contains a program by Brendan Moroso, a student in the March 2019 Cohort of Epicodus in Seattle, to be used return stilly comments in a string of numbers
+This project contains a program by Brendan Moroso, a student in the March 2019 Cohort of Epicodus in Seattle, to be used to return stilly comments in a string of numbers.
 
 ## Setup/Installation Requirements
 
