@@ -20,7 +20,6 @@ function populateArray() {
     }
   }
 
-
 //User Interface
 $(document).ready(function() {
   $("#submit").click(function() {
