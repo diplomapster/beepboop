@@ -10,7 +10,7 @@ This project contains a program by Brendan Moroso, a student in the March 2019 C
 
 ## Setup/Installation Requirements
 
-* Visit https://github.com/diplomapster/beepboop to view the contents of this webpage. The site itself is not currently live.
+* Visit https://github.com/diplomapster/beepboop to view the contents of this webpage. The site itself is now currently live at https://diplomapster.github.io/beepboop/
 
 ## Specs
 
@@ -26,9 +26,6 @@ This project contains a program by Brendan Moroso, a student in the March 2019 C
 * Spec 4: Return numbers with a "1" in them as "Beep!"
     Input:"14"
     Output: "Beep!"
-
-## Known Bugs
-  Currently there is a problem returning any values upon user input.
 
 ## Support and contact details
 
